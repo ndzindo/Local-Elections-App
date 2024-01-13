@@ -1,0 +1,6 @@
+﻿Ime,Prezime,Rodjenje,Adresa,LicnaKarta,Jmbg,Pol
+Merim123,Kulovac,new DateTime(1999,8,28),Hrasnicka cesta 23,321T999,2808999170065,Pol.muski
+Kerim,Kulovic123,new DateTime(1999,8,28),Hrasnicka cesta 23,321T999,2808999170065,Pol.muski
+Kerim,Kulovac,new DateTime(1999,8,28),,321T999,2808999170065,Pol.muski
+Merim123,Kulovac,new DateTime(1999,8,28),Hrasnicka cesta 23,dsadasdasdasdasdas,2808999170065,Pol.muski
+Merim123,Kulovac,new DateTime(1999,8,28),Hrasnicka cesta 23,321T999,2,Pol.muski

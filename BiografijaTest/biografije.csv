@@ -1,0 +1,5 @@
+﻿Ime,Prezime,Rodjenje,Adresa,Nivo_Strucne_Spreme,Opis
+Kando1,Kandidatic1,new DateTime(1995, 2, 19),Trg Kandidata 5,Nizi nivo,Kandidat je bio član stranke sda od 18.3.1998 do 1.8.1997
+Kando2,Kandidatic2,new DateTime(1994, 1, 5),Trg Kandidata 5,Visi nivo,Kandidat je bio član stranke hdz od 16.7.1994 do 19.11.2030
+Kando4,Kandidatic4,new DateTime(1992, 7, 29),Trg Kandidata 5,Nizi nivo,Kandidat je bio član stranke  od 11.1.1993 do 15.10.2000
+Kando5,Kandidatic5,new DateTime(1992, 7, 29),Trg Kandidata 5,Nizi nivo,Kandidat je kandidat

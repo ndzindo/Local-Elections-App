@@ -6,7 +6,7 @@ using System.Globalization;
 
 namespace BiografijaTest
 {
-    [TestClass]         // Testove radio Emir Ramadanović
+    [TestClass]       
     public class BiografijaTest
     {
         [TestMethod]

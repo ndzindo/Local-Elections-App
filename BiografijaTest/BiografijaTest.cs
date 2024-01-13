@@ -6,7 +6,7 @@ using System.Globalization;
 
 namespace BiografijaTest
 {
-    [TestClass]         // Testove radio Emir Ramadanović
+    [TestClass]        
     public class BiografijaTest
     {
         [TestMethod]
@@ -91,7 +91,7 @@ namespace BiografijaTest
         [ExpectedException(typeof(ArgumentException))]
         public void TestKonstruktoraBiografijeIzuzetakCSV(string ime, string prezime, DateTime rodjenje, string adresa, string nivoss, string opis)
         {
-            Biografija b = new Biografija(ime, prezime, rodjenje, adresa, nivoss, opis); // Test baca argument exception zbog datuma i formata opisa
+            Biografija b = new Biografija(ime, prezime, rodjenje, adresa, nivoss, opis); 
         }
 
     }
